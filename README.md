@@ -4,7 +4,7 @@ An pintrest Clone made up with React JS and Sanity.
 
 ## Live Website
 
-https://pinterest-clone-sahilverma.netlify.app/user-profile/115445362697698659873
+https://pinterest-clone-sahilverma.netlify.app
 
 ## Home Page
 
