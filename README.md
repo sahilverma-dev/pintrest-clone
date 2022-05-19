@@ -1,6 +1,6 @@
 # Instagram Firebase
 
-An pintrest Clone made up with React JS and Sanity.
+A Pinterest Clone made up with React JS and Sanity.
 
 ## Live Website
 
