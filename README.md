@@ -1,4 +1,4 @@
-# Instagram Firebase
+# Pinterest Clone
 
 A Pinterest Clone made up with React JS and Sanity.
 
